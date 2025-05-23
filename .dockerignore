@@ -1,0 +1,5 @@
+vendor/
+uploads/
+.git
+.gitignore
+Dockerfile
